@@ -13,10 +13,10 @@
 
 ![LUA](https://img.shields.io/badge/-Lua-3498db?style=flat-square&logo=lua&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-c0392b?style=flat-square&logo=mysql&logoColor=white)
+![C#](http://img.shields.io/badge/-CSharp-2c3e50?style=flat-square&logo=C#&logoColor=white)
 
 ## 🎈 What am I learning?
 
-![C#](http://img.shields.io/badge/-CSharp-2c3e50?style=flat-square&logo=C#&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-4278f5?style=flat-square&logo=C#&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-ecf542?style=flat-square&logo=python&logoColor=white)
 ![Js](https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white)
