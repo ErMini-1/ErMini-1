@@ -12,12 +12,8 @@
 ## 💻 Knowledge:
 
 ![LUA](https://img.shields.io/badge/-Lua-3498db?style=flat-square&logo=lua&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-c0392b?style=flat-square&logo=mysql&logoColor=white)
-
-## 🎈 What am I learning?
-
 ![Python](https://img.shields.io/badge/-Python-ecf542?style=flat-square&logo=python&logoColor=white)
 ![Js](https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-d35400?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1abc9c?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-9b59b6?style=flat-square&logo=bootstrap&logoColor=white)
+
+## 🎈 What am I learning?
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
