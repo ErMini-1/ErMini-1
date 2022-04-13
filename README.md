@@ -1,6 +1,6 @@
 # Hi, how are you? My aka is "Mini"!
 
-- 🧿 Fivem Forum: <a href="https://forum.cfx.re/u/byminiyt/">Mini</a>
+- 🧿 Fivem Forum: <a href="https://forum.cfx.re/u/mini_25">Mini</a>
 - 📭 Discord: "Mini"!#0001
 
 ## 🔐 Projects:
