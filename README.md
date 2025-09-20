@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌵 Im a 18yo guy that loves programming<br>🧊 Im currently working at my own projects on FiveM<br>🧁 Im currently doing my own core at FiveM (mi-core)<br><br>📔 fresh__ (discord)<br>📔 Mini_25 (cfx.re)
+🌵 Im a 19yo guy that loves programming<br>🧊 Im currently working at my own projects on FiveM<br>🧁 Im currently doing my own core at FiveM (mi-core)<br><br>📔 fresh__ (discord)<br>📔 Mini_25 (cfx.re)
 
 
 ## 🌐 Socials:
